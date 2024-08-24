@@ -1,0 +1,32 @@
+[
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "isbn": 1,
+        "available": true
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "isbn": 2,
+        "available": true
+    },
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "isbn": 3,
+        "available": true
+    },
+    {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "isbn": 4,
+        "available": true
+    },
+    {
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "isbn": 5,
+        "available": true
+    }
+]

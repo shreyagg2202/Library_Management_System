@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Alice Johnson",
+        "user_id": 1
+    },
+    {
+        "name": "Bob Smith",
+        "user_id": 2
+    },
+    {
+        "name": "Carol Williams",
+        "user_id": 3
+    },
+    {
+        "name": "David Brown",
+        "user_id": 4
+    },
+    {
+        "name": "Emma Davis",
+        "user_id": 5
+    }
+]
